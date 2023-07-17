@@ -1,0 +1,26 @@
+{
+  "name": "Meta Stage #30",
+  "description": "Meta Stage Photo Card - Nubzuki Solo Concert",
+  "image": "https://bafybeihuqe5abdf6gfxct7fw37lk226ybjhjhbz5effgqpt7xtx6oncire.ipfs.nftstorage.link/30.png",
+  "dna": "f291cc656829335f22370fd378d48f98b83a3d99",
+  "edition": 30,
+  "date": 1689578568957,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "HanyangBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Nubzuk"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Onepiece"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
